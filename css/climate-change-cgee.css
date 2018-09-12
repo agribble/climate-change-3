@@ -1,0 +1,6 @@
+﻿.slide-object svg {
+
+                overflow: hidden;
+
+                /* workaround to get rid of white space at the end of scrolling text fields in IE */
+}
